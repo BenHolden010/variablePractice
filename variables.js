@@ -4,3 +4,6 @@ var car = "ford"
 var son = 6
 var father = 33
 var papa = 64
+var hungry = true
+var thirsty = false
+var sleepy = true
